@@ -28,6 +28,7 @@ DOMAIN,abs.twimg.com
 DOMAIN,ac.opapp.cn
 DOMAIN,account.agiso.com
 DOMAIN,account.dianping.com
+DOMAIN,account.qzhua.net
 DOMAIN,account.xfinfr.com
 DOMAIN,accountapi.dianping.com
 DOMAIN,accscdn4public.m.taobao.com
@@ -100,6 +101,7 @@ DOMAIN,api-n0vadp-static.hoyoverse.com
 DOMAIN,api-secure.solvemedia.com
 DOMAIN,api.account.xiaomi.com
 DOMAIN,api.ads.tvb.com
+DOMAIN,api.agora.io
 DOMAIN,api.cc.163.com
 DOMAIN,api.comm.miui.com
 DOMAIN,api.coolapk1s.com
@@ -436,9 +438,12 @@ DOMAIN,doc.oplist.org
 DOMAIN,doc.oplist.org.cn
 DOMAIN,dockerstatic.com
 DOMAIN,docrdsfx76ssb.cloudfront.net
+DOMAIN,docs.chmlfrp.net
 DOMAIN,docs.doudou.fun
 DOMAIN,docs.idqqimg.com
 DOMAIN,docs.scriptcat.org
+DOMAIN,docs.trae.ai
+DOMAIN,docs.trae.cn
 DOMAIN,docs.vilinko.com
 DOMAIN,domains-ws.revved.com
 DOMAIN,doris.yidianzixun.com
@@ -554,6 +559,7 @@ DOMAIN,fino.svc.litv.tv
 DOMAIN,flowus.cn
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+DOMAIN,forum.trae.cn
 DOMAIN,fourhoi.com
 DOMAIN,fp-it.fengkongcloud.com
 DOMAIN,fp.tongdun.net
@@ -858,6 +864,7 @@ DOMAIN,l.qq.com
 DOMAIN,l36-danmu.hi.163.com
 DOMAIN,l36.gdl.netease.com
 DOMAIN,l36.update.netease.com
+DOMAIN,l36.update.nieapps.com
 DOMAIN,laohuangli.bmcx.com
 DOMAIN,laowang.vip
 DOMAIN,laowangappb93ibiu.cihiu487giuew87lk.xyz
@@ -1233,6 +1240,7 @@ DOMAIN,p6-novelfm-sign.novelfmpic.com
 DOMAIN,p6-sign.douyinpic.com
 DOMAIN,p6-webcast-sign.douyinpic.com
 DOMAIN,p6.douyinpic.com
+DOMAIN,p9-arcosite.byteimg.com
 DOMAIN,p9-catpcha.byteimg.com
 DOMAIN,p9-dcd-sign.byteimg.com
 DOMAIN,p9-dcd.byteimg.com
@@ -1245,6 +1253,7 @@ DOMAIN,p9.douyinpic.com
 DOMAIN,pacaio.match.qq.com
 DOMAIN,pages.github.com
 DOMAIN,pan.quark.cn
+DOMAIN,panel.chmlfrp.net
 DOMAIN,papegames.qiyukf.com
 DOMAIN,parking.namesilo.com
 DOMAIN,party.163.com
@@ -1854,6 +1863,7 @@ DOMAIN,www.bootcss.com
 DOMAIN,www.bytedance.com
 DOMAIN,www.chinaunicom.com
 DOMAIN,www.chinaunicom.com.cn
+DOMAIN,www.chmlfrp.net
 DOMAIN,www.clips4sale.com
 DOMAIN,www.cloudflare-cn.com
 DOMAIN,www.cloudflare.com
@@ -1870,6 +1880,7 @@ DOMAIN,www.docker.com
 DOMAIN,www.doudou.fun
 DOMAIN,www.douyin.com
 DOMAIN,www.dpfile.com
+DOMAIN,www.emojiall.com
 DOMAIN,www.enigmaprotector.cn
 DOMAIN,www.enigmaprotector.com
 DOMAIN,www.epicgames.com
@@ -1915,6 +1926,7 @@ DOMAIN,www.mairuan.com.cn
 DOMAIN,www.mairuan.net
 DOMAIN,www.maserati.com
 DOMAIN,www.mcmod.cn
+DOMAIN,www.mefrp.com
 DOMAIN,www.meipian7.cn
 DOMAIN,www.meituan.com
 DOMAIN,www.meizu.com
